@@ -1,0 +1,5 @@
+com\elearning\ElearningApplication.class
+com\elearning\model\User.class
+com\elearning\repositories\UserRepository.class
+com\elearning\config\ApplicationConfig.class
+com\elearning\controller\ApplicationController.class
